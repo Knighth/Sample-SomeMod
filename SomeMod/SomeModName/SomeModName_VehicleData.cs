@@ -245,12 +245,10 @@ namespace SomeMod
                 m_InfoArray[iGoodsType, GoodsType.CountDataLocal]++; //first lets up our count cause it exists right?
                 //ok lets add our passengers as the local cargo if there were any.
 
-                // please note I'm not sure this isn't really the correct passenger amounts.
-                //I think they live in the v.m_citizenUnit objects where you have to get the CitizenUnit for the vehicle
-                // and then loop though all 'next_units' in that object.
-                // current this is returning a number that I think is really only the running total
-                // of the number of trips so far... it's very strange that running total is being stored in this var.
-                // the "count" data above however is accurate.
+                // please note I'm not sure this is really the correct passenger amounts.
+                // technically taxi's are supposed to have 4 max passengers by default
+                // and in testing this seems to show up too 5 per taxi so I don't know if it's counting the driver.
+                // or colassal changed that number to 5 in some areas of their code, I didn't look very hard.
                 m_InfoArray[iGoodsType, GoodsType.CargoDataTotal] += v.m_transferSize;
                 m_InfoArray[iGoodsType, GoodsType.CargoDataLocal] += v.m_transferSize; 
             }
