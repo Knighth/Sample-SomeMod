@@ -1,0 +1,8 @@
+E:\Projects\CSLTesting\SampleTemplate\SomeMod\bin\Debug\SomeMod.dll
+E:\Projects\CSLTesting\SampleTemplate\SomeMod\bin\Debug\SomeMod.pdb
+E:\Projects\CSLTesting\SampleTemplate\SomeMod\obj\Debug\SomeMod.dll
+E:\Projects\CSLTesting\SampleTemplate\SomeMod\obj\Debug\SomeMod.pdb
+E:\Projects\CSLTesting\SampleTemplate\SomeMod\bin\Debug\Assembly-CSharp.dll
+E:\Projects\CSLTesting\SampleTemplate\SomeMod\bin\Debug\ColossalManaged.dll
+E:\Projects\CSLTesting\SampleTemplate\SomeMod\bin\Debug\ICities.dll
+E:\Projects\CSLTesting\SampleTemplate\SomeMod\bin\Debug\UnityEngine.dll

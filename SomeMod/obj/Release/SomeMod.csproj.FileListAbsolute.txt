@@ -1,0 +1,9 @@
+E:\Projects\CSLTesting\SampleTemplate\SomeMod\bin\Release\SomeMod.dll
+E:\Projects\CSLTesting\SampleTemplate\SomeMod\bin\Release\SomeMod.pdb
+E:\Projects\CSLTesting\SampleTemplate\SomeMod\bin\Release\Assembly-CSharp.dll
+E:\Projects\CSLTesting\SampleTemplate\SomeMod\bin\Release\ColossalManaged.dll
+E:\Projects\CSLTesting\SampleTemplate\SomeMod\bin\Release\ICities.dll
+E:\Projects\CSLTesting\SampleTemplate\SomeMod\bin\Release\UnityEngine.dll
+E:\Projects\CSLTesting\SampleTemplate\SomeMod\obj\Release\SomeMod.dll
+E:\Projects\CSLTesting\SampleTemplate\SomeMod\obj\Release\SomeMod.pdb
+E:\Projects\CSLTesting\SampleTemplate\SomeMod\obj\Release\SomeMod.csprojResolveAssemblyReference.cache

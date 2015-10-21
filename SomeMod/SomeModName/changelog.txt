@@ -1,0 +1,7 @@
+SomeMod change log
+
+
+Some Date or Version number (or both)
+----------------------------
+- summary information about some change you made
+- maybe some imporant note to yourself or your users
